@@ -1,1 +1,2 @@
 # odin_recipes
+This will be a beginner's project to create a basic recipe's website using html. It will feature a main page (or index), an about page, and etc. This project will also be revisited in the future to style it up with CSS or JS.
